@@ -23,6 +23,8 @@ I currently work as Research Engineer & Teaching Assistant at University of Liè
 ### Learning 🌱 
 Being a lifelong learner, I’m continously learning/improving my Data Science and Machine learning skills with Python and R. 
 
+
+<div 
 <p align="center">
   <a href="https://www.uee.uliege.be/cms/c_3483040/en/uee-repertoire?uid=u238339"><img width="7%" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="University website"/></a>
   <a href="https://twitter.com/milkias_zerai"><img width="7%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
