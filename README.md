@@ -28,6 +28,6 @@ Being a lifelong learner, I’m continously learning/improving my Data Science a
   <a href="https://www.linkedin.com/in/milkias-z-semereab-904542194/"><img width="7%" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://app.datacamp.com/profile/milkiaszerai"><img width="7%" src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4" alt="DataCamp"/></a>
   <a href="https://twitter.com/milkias_zerai"><img width="7%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://github.com/milkiaszerai/milkiaszerai/"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
+  <a href="https://github.com/milkiaszerai/"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
   <a href="https://www.researchgate.net/profile/Milkias-Z-Semereab-2"><img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate"/></a>
   
