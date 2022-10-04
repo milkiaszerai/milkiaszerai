@@ -28,7 +28,7 @@ Being a lifelong learner, I’m continously learning/improving my Data Science a
 <p align="center">
   <a href="https://www.uee.uliege.be/cms/c_3483040/en/uee-repertoire?uid=u238339"><img width="7%" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="University website"/></a>
   <a href="https://twitter.com/milkias_zerai"><img width="7%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://app.datacamp.com/profile/milkiaszerai"><img width="7%" src="https://drive.google.com/file/d/1aI2W6SyNeW3Me895-4iWIIeEF2WvdVcS/view?usp=sharing" alt="DataCamp"/></a>
+  <a href="https://app.datacamp.com/profile/milkiaszerai"><img width="45%" src="https://drive.google.com/file/d/1aI2W6SyNeW3Me895-4iWIIeEF2WvdVcS/view?usp=sharing" alt="DataCamp"/></a>
   <a href="https://www.linkedin.com/in/milkias-z-semereab-904542194/"><img width="7%" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/milkiaszerai/milkiaszerai/"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
   <a href="https://www.researchgate.net/profile/Milkias-Z-Semereab-2"><img width="7%" src="https://www.facebook.com/ResearchGate/photos/a.497137396208/10157892330806209/" alt="ResearchGate"/></a>
