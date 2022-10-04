@@ -29,5 +29,5 @@ Being a lifelong learner, I’m continously learning/improving my Data Science a
   <a href="https://app.datacamp.com/profile/milkiaszerai"><img width="7%" src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4" alt="DataCamp"/></a>
   <a href="https://twitter.com/milkias_zerai"><img width="7%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://github.com/milkiaszerai/milkiaszerai/"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
-  <a href="https://www.researchgate.net/profile/Milkias-Z-Semereab-2"><img width="7%" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" alt="ResearchGate"/></a>
+  <a href="https://www.researchgate.net/profile/Milkias-Z-Semereab-2"><img width="5%" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" alt="ResearchGate"/></a>
   
