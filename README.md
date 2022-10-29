@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me 👨‍💼
-A Geo-Resource R&D Engineer with background in engineering, earth science and data science. Currently pursuing an expertise in spatial data science, sensor-based geo-resources characterization and applications of machine learning for developing innovative solutions for the extractive industry (oil and gas, metals and minerals). 
+A Geo-Resource R&D Engineer with background in engineering, earth science and data science. Currently pursuing an expertise in spatial data science, geostatistics, sensor-based geo-resources characterization and applications of machine learning for developing innovative solutions for the extractive industry (oil and gas, metals and minerals). 
 
 ### Work 🔭
 I currently work as Research Engineer & Teaching Assistant at University of Liège, Belgium. 
