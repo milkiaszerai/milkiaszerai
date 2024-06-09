@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me 👨‍💼 
-An innovative and scientifically rigorous research engineer with a solid foundation in engineering and earth science, complemented by a proficiency in data science and machine learning. My recent research activities have been primarily focused on developing and implementing state-of-the-art statistical and data-driven approaches to solve complex problems for the transition toward clean energy economy. 
+An innovative and scientifically rigorous research engineer with a solid foundation in engineering as well as environmental and earth sciences, complemented by a proficiency in data science and machine learning. My recent research activities have been primarily focused on developing and implementing state-of-the-art statistical and data-driven approaches to solve complex problems for the transition toward clean energy economy. 
 
 ### Work 🔭
 I currently work as Research Staff at Stanford University. 
